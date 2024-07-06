@@ -2,18 +2,27 @@
 <h1 align="center">Yelp Database System</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/yelp-database?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/yelp-database?color=BC0500">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/yelp-database?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/yelp-database?color=BC0500">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/yelp-database?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/yelp-database?color=BC0500">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/yelp-database?color=56BEB8" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/yelp-database?color=BC0500" />
 </p>
 
 <p align="center">
 <img
+    src="https://img.shields.io/badge/yelp-BC0500?style=for-the-badge&logo=yelp&logoColor=white"
+    alt="Website Badge" />
+<img
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"
     alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Windows 10&logoColor=white"
