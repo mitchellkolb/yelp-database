@@ -2,24 +2,24 @@
 <h1 align="center">Yelp Database System</h1>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/yelp-database?color=BC0500">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/mitchellkolb/yelp-database?color=223A60">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/yelp-database?color=BC0500">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/mitchellkolb/yelp-database?color=223A60">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/yelp-database?color=BC0500">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/mitchellkolb/yelp-database?color=223A60">
 
-  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/yelp-database?color=BC0500" />
+  <img alt="Github stars" src="https://img.shields.io/github/stars/mitchellkolb/yelp-database?color=223A60" />
 </p>
 
 <p align="center">
-<img
-    src="https://img.shields.io/badge/yelp-BC0500?style=for-the-badge&logo=yelp&logoColor=white"
-    alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"
     alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="Website Badge" />
+<img
+    src="https://img.shields.io/badge/yelp-BC0500?style=for-the-badge&logo=yelp&logoColor=white"
     alt="Website Badge" />
 <img
     src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"
@@ -31,17 +31,16 @@
 
 This project is intended to showcase our knowledge learning about Neural Network Design by developing a
 
-![project image](resources/image1.png)
+![project image](resources/yelp-database.gif)
 
 <details>
 <summary style="color:#5087dd">Watch the Full Video Demo Here</summary>
 
-[![Full Video Demo Here](https://img.youtube.com/vi/VidKEY/0.jpg)](https://www.youtube.com/watch?v=VidKEY)
+[![Full Video Demo Here](https://img.youtube.com/vi/Qd66rchTcco/0.jpg)](https://www.youtube.com/watch?v=Qd66rchTcco)
 
 </details>
 
 ---
-
 
 # Table of Contents
 - [What I Learned](#what-i-learned-in-this-project)
