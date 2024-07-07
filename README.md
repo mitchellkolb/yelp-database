@@ -29,7 +29,7 @@
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase my knowledge learning about relational database management systems and databse design theory by developing a database infrastructure application that queries the Yelp's business review dataset to extract useful information for local businesses and individual users.
+This project is intended to showcase my knowledge learning about relational database management systems and database design theory by developing a database infrastructure application that queries [Yelp.com's business review dataset](https://www.yelp.com/dataset) to extract useful information for local businesses and individual users.
 
 
 ![project image](resources/yelp-database.gif)
@@ -55,16 +55,26 @@ This project is intended to showcase my knowledge learning about relational data
 ---
 
 # What I Learned in this Project
-- How to
-- Programming in 
-
+- Database modeling and design
+- Creating entity relationship (ER) diagrams
+- Converting ER diagrams to DDL SQL statements for table creation
+- Populating the database with large datasets
+- Querying large databases
+- Optimizing query performance through indexes
+- JSON parsing
+- Database Application Development using PyQT
 
 
 # Tools Used / Development Environment
 - Python
+- SQL
+- PgAdmin 4
+- Postgres
+- Wondershare EdrawMax for ER diagrams
+- PyQT
 - VS Code
 - Terminal
-- Windows 10
+- MacOS
 
 
 
@@ -72,8 +82,8 @@ This project is intended to showcase my knowledge learning about relational data
 
 # Team / Contributors / Teachers
 - [Mitchell Kolb](https://github.com/mitchellkolb)
-- [name]()
-- Professor. 
+- Professor. Ananth Jillepalli
+- Professor. Sakire Arslan Ay
 
 
 
