@@ -29,7 +29,8 @@
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase our knowledge learning about Neural Network Design by developing a
+This project is intended to showcase my knowledge learning about relational database management systems and databse design theory by developing a database infrastructure application that queries the Yelp's business review dataset to extract useful information for local businesses and individual users.
+
 
 ![project image](resources/yelp-database.gif)
 
