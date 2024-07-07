@@ -29,7 +29,7 @@
     alt="Website Badge" />
 </p>
 
-This project is intended to showcase my knowledge learning about relational database management systems and database design theory by developing a database infrastructure application that queries [Yelp.com's business review dataset](https://www.yelp.com/dataset) to extract useful information for local businesses and individual users.
+While learning about relational database management systems and database design theory, I developed a database infrastructure application that queries [Yelp.com's business review dataset](https://www.yelp.com/dataset) to extract useful information for local businesses and individual users.
 
 
 ![project image](resources/yelp-database.gif)
