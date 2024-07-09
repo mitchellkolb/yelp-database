@@ -1,0 +1,18 @@
+
+Text file containing all table sizes. Name this file “<your-name>_ TableSizes.txt”
+
+After you insert all your data, retrieve the number of tuples in each of your tables and copy/paste that information into a text file. (Simply run the query “SELECT COUNT(*) FROM tablename” for each table in your database.) Copy the results to “<your-name>_TableSizes.txt file.
+
+
+Select COUNT(*) From business
+328138
+
+Select COUNT(*) From user
+992827
+
+Select COUNT(*) From checkin
+248367
+
+Select COUNT(*) From review
+189346
+
