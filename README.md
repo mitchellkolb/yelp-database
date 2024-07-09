@@ -58,8 +58,7 @@ While learning about relational database management systems and database design 
 - Database modeling and design
 - Creating entity relationship (ER) diagrams
 - Converting ER diagrams to DDL SQL statements for table creation
-- Populating the database with large datasets
-- Querying large databases
+- Populating and Querying a database with large datasets
 - Optimizing query performance through indexes
 - JSON parsing
 - Database Application Development using PyQT
@@ -90,10 +89,15 @@ While learning about relational database management systems and database design 
 
 
 # How to Set Up
-This project was implemented on our local machine inside of a virtual machine using:
-- Ubuntu Version 20.04.03 found at this [link](http://lt.releases.ubuntu.com/20.04.3/).
+This project was implemented on my macbook:
+- Download the [Yelp.com's business review dataset](https://www.yelp.com/dataset) and extract it into the milestone folder you want to run the code in.
+- This project only uses the business, checkin, user, and review dataset files.
 - Clone this repository 
-- Open terminal at the codebase `~.../ext2/Noah-Mitchell/`
+- Open terminal at the codebase `~.../yelp-database/milestone#/`
+- Install postgreSQL database software like PgAdmin4 and Postgres to have a locally run database to connect to.
+- Install python3, pyqt6, and psycopg2
+- Add the credentials for your local postgreSQL instance into the codebase file.
+- Run the  `.py` file of your choice
 
 
 
