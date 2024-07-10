@@ -164,19 +164,14 @@ To expand on the metrics for determining popularity, I included stars, review ra
 
 
 ## Results and Observations
-During development, I gathered various insights about the data and application performance. The application successfully allowed users to search for businesses, view reviews, and check-ins, and filter results based on different criteria.
+During development, I learned a lot about the Yelp data given to me and how to make the application perform smoothly with it. The application i created successfully allowed users to search for businesses, view details about them and filter results based on different criteria.
 
-<p float="left">
-  <img src="resources/image1.png" alt="First Try" width="300" />
-  <img src="resources/image2.png" alt="Final Try" width="307" />
-</p>
 
 ## Future Work
 Future improvements could include:
 1. Enhancing the user interface to provide more advanced filtering options.
-2. Implementing additional features such as sentiment analysis on reviews.
-3. Integrating more datasets to provide a richer context for business analysis.
-4. Optimizing the application further to handle even larger datasets more efficiently.
+2. Integrating more datasets to provide a richer context for business analysis.
+3. Optimizing the application further to handle even larger datasets more efficiently.
 
 
 
