@@ -97,14 +97,14 @@ While learning about relational database management systems and database design 
 
 # How to Set Up
 This project was implemented on my macbook:
-- Download the [Yelp.com's business review dataset](https://www.yelp.com/dataset) and extract it into the milestone folder you want to run the code in.
+- Download the [Yelp.com's business review dataset](https://www.yelp.com/dataset) and extract it into the milestone folder you want to run the code in. The dataset is too large for me to store it in this repository.
 - This project only uses the business, checkin, user, and review dataset files.
 - Clone this repository 
-- Open terminal at the codebase `~.../yelp-database/milestone#/`
+- Open terminal at the codebase `~.../yelp-database/milestone#/` and replace `#` with the number of the folder you desire. Use milestone3 for the most worked on version.
 - Install postgreSQL database software like PgAdmin4 and Postgres to have a locally run database to connect to.
 - Install python3, pyqt6, and psycopg2
 - Add the credentials for your local postgreSQL instance into the codebase file.
-- Run the  `.py` file of your choice
+- Run the  `milestone#.py` file of your choice
 
 
 
